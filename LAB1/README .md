@@ -7,7 +7,6 @@ MSSV: 1050080203
 Lớp: 11_THMT  
 Môn học: An toàn Hệ thống thông tin  
 Tên bài Lab: Lab 1 - Bắt gói tin Telnet - SSH  
-Video thực hành: https://youtu.be/pyyjD_QcTyo (Em đã làm đầy đủ các phần của bài Lab, tuy nhiên trong quá trình quay video em không để ý OBS đã dừng ghi nên video chỉ ghi lại được khoảng 57 phút đầu. Em có chụp lại các ảnh kết quả thực hành và đưa vào file Word để làm minh chứng. Mong thầy thông cảm ạ.)
 
 ## 2. Mục tiêu
 
